@@ -24,8 +24,6 @@ public class Ejercicio1 {
             numero1=numero2;
             //Por ultimo, cambiamos la suma por la segunda variable
             numero2=numero3;
-             
-             
         }
     }
  
