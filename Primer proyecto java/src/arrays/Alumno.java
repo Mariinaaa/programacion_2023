@@ -7,6 +7,7 @@ public class Alumno {
 	
 	
 	
+	
 	public Alumno(String nombre, String apellido, Asignatura[] asignatura) {
 		super();
 		this.nombre = nombre;
